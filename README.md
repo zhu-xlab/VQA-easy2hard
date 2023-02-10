@@ -1,4 +1,4 @@
-# from-e2h.pytorch
+# VQA-easy2hard
 Code for paper "From easy to hard: Learning language-guided curriculum for visual question answering on remote sensing data"
 
 
