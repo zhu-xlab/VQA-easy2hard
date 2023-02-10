@@ -9,9 +9,15 @@ Please download our pre-trained model weights from this link: (https://drive.goo
 ## Dataset downloading and settings
 This repo is based on the codebase [RSVQA](https://github.com/syvlo/RSVQA). 
 
-@inproceedings{,
-                author = {},
-                title = {},
-                booktitle = {},
-                year={2021}
-            }
+# Citation
+```BibTeX
+@article{yuan2022easy,
+  title={From easy to hard: Learning language-guided curriculum for visual question answering on remote sensing data},
+  author={Yuan, Zhenghang and Mou, Lichao and Wang, Qi and Zhu, Xiao Xiang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--11},
+  year={2022},
+  publisher={IEEE}
+}
+```
