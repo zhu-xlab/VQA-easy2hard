@@ -8,3 +8,10 @@ Please download our pre-trained model weights from this link: (https://drive.goo
 
 ## Dataset downloading and settings
 This repo is based on the codebase [RSVQA](https://github.com/syvlo/RSVQA). 
+
+@inproceedings{,
+                author = {},
+                title = {},
+                booktitle = {},
+                year={2021}
+            }
