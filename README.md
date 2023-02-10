@@ -16,7 +16,6 @@ This repo is based on the codebase [RSVQA](https://github.com/syvlo/RSVQA).
   author={Yuan, Zhenghang and Mou, Lichao and Wang, Qi and Zhu, Xiao Xiang},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   volume={60},
-  pages={1--11},
   year={2022},
   publisher={IEEE}
 }
